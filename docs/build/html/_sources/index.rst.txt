@@ -5,11 +5,11 @@ User documentation
 ==================
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-   
-   About
-   License
-
+    
+   contents
+   about
+   license
+   gettingstarted
 
 Indices and tables
 ==================
