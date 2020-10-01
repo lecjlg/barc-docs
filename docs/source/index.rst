@@ -4,11 +4,12 @@ The (BARC) Bokeh Annotation and Reporting Component documentation
 User documentation
 ==================
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
     
    about
    license
-   gettingstarted
+   userguide
+   developerguide
 
 Indices and tables
 ==================
