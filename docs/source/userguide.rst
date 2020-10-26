@@ -26,9 +26,6 @@ The report generator provides the capability to generate case studies and model 
 Workspace  basics
 ^^^^^^^^^^^^^^^^^
 
-User tools
-
-
 When you open the BARC component it will appear on the right side of the browser. 
 
 
@@ -39,14 +36,93 @@ The main toolbar provides the basic tools the user requires to start using BARC.
     :height: 51px
     :alt: Selection, navigation, drawing and type toolbar
 
-
-
 The toolbar contains two distinct sets of tools. The first set (A) are used for navigation, e.g zoom and move. The second (B) are freeform drawing tools. When you hover over any of the buttons a tooltip will give an overview of the functionilty of that button. 
 
 .. image:: /images/toolbox_breakdown.png
     :width: 383px
     :align: left
     :height: 152px
+    :alt: Selection, navigation, drawing and type toolbar
+
+A Selection and navigation
+
+
+.. image:: /images/undo.png
+    :width: 26px
+    :align: left
+    :height: 30px
+    :alt: Selection, navigation, drawing and type toolbar
+
+
+.. image:: /images/redo.png
+    :width: 26px
+    :align: left
+    :height: 30px
+    :alt: Selection, navigation, drawing and type toolbar
+
+
+.. image:: /images/zoomin.png
+    :width: 26px
+    :align: left
+    :height: 30px
+    :alt: Selection, navigation, drawing and type toolbar
+
+
+.. image:: /images/zoomout.png
+    :width: 26px
+    :align: left
+    :height: 30px
+    :alt: Selection, navigation, drawing and type toolbar
+
+
+.. image:: /images/move.png
+    :width: 26px
+    :align: left
+    :height: 30px
+    :alt: Selection, navigation, drawing and type toolbar
+
+
+.. image:: /images/boxzoom.png
+    :width: 26px
+    :align: left
+    :height: 30px
+    :alt: Selection, navigation, drawing and type toolbar
+
+
+.. image:: /images/wheelzoom.png
+    :width: 26px
+    :align: left
+    :height: 30px
+    :alt: Selection, navigation, drawing and type toolbar
+
+.. image:: /images/boxadd.png
+    :width: 26px
+    :align: left
+    :height: 30px
+    :alt: Selection, navigation, drawing and type toolbar
+
+.. image:: /images/freehand.png
+    :width: 26px
+    :align: left
+    :height: 30px
+    :alt: Selection, navigation, drawing and type toolbar
+
+.. image:: /images/polyadd.png
+    :width: 26px
+    :align: left
+    :height: 30px
+    :alt: Selection, navigation, drawing and type toolbar
+
+.. image:: /images/polyedit.png
+    :width: 26px
+    :align: left
+    :height: 30px
+    :alt: Selection, navigation, drawing and type toolbar
+
+.. image:: /images/textadd.png
+    :width: 26px
+    :align: left
+    :height: 30px
     :alt: Selection, navigation, drawing and type toolbar
 
 
