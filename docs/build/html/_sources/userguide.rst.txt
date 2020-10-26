@@ -39,90 +39,94 @@ The main toolbar provides the basic tools the user requires to start using BARC.
 The toolbar contains two distinct sets of tools. The first set (A) are used for navigation, e.g zoom and move. The second (B) are freeform drawing tools. When you hover over any of the buttons a tooltip will give an overview of the functionilty of that button. 
 
 .. image:: /images/toolbox_breakdown.png
-    :width: 383px
-    :align: left
+    :width: 383px    
     :height: 152px
     :alt: Selection, navigation, drawing and type toolbar
 
-A Selection and navigation
-
+**(A) Selection and navigation tools**
 
 .. image:: /images/undo.png
     :width: 26px
-    :align: left
     :height: 30px
-    :alt: Selection, navigation, drawing and type toolbar
+    :alt: Undo button
 
+Undo
 
 .. image:: /images/redo.png
-    :width: 26px
-    :align: left
+    :width: 26px  
     :height: 30px
-    :alt: Selection, navigation, drawing and type toolbar
+    :align: left
+    :alt: Redo button
 
+Redo 
 
 .. image:: /images/zoomin.png
-    :width: 26px
-    :align: left
+    :width: 26px    
     :height: 30px
-    :alt: Selection, navigation, drawing and type toolbar
+    :alt: Zoom in button
 
+Zoom in tool
 
 .. image:: /images/zoomout.png
-    :width: 26px
-    :align: left
+    :width: 26px    
     :height: 30px
-    :alt: Selection, navigation, drawing and type toolbar
+    :alt: Zoom out button
 
+Zoom out tool
 
 .. image:: /images/move.png
-    :width: 26px
-    :align: left
+    :width: 26px    
     :height: 30px
-    :alt: Selection, navigation, drawing and type toolbar
+    :alt: Pan/move button
 
+Move/pan tool
 
 .. image:: /images/boxzoom.png
-    :width: 26px
-    :align: left
+    :width: 26px    
     :height: 30px
-    :alt: Selection, navigation, drawing and type toolbar
+    :alt: Box selection zoom
 
+Box zoom tool
 
 .. image:: /images/wheelzoom.png
-    :width: 26px
-    :align: left
+    :width: 26px    
     :height: 30px
-    :alt: Selection, navigation, drawing and type toolbar
+    :alt: Mouse wheel zoom
+
+Mouse wheel zoom tool
 
 .. image:: /images/boxadd.png
-    :width: 26px
-    :align: left
+    :width: 26px    
     :height: 30px
-    :alt: Selection, navigation, drawing and type toolbar
+    :alt: Box add button
+
+**(B) Drawing and type tools**
 
 .. image:: /images/freehand.png
-    :width: 26px
-    :align: left
+    :width: 26px    
     :height: 30px
-    :alt: Selection, navigation, drawing and type toolbar
+    :alt: Freehand drawing tool
+
+Freehand drawing tool
 
 .. image:: /images/polyadd.png
-    :width: 26px
-    :align: left
+    :width: 26px    
     :height: 30px
-    :alt: Selection, navigation, drawing and type toolbar
+    :alt: Polygon add tool
+
+Polygon add tool
 
 .. image:: /images/polyedit.png
-    :width: 26px
-    :align: left
+    :width: 26px   
     :height: 30px
-    :alt: Selection, navigation, drawing and type toolbar
+    :alt: Polygon edit tool
+
+Polygon edit tool
 
 .. image:: /images/textadd.png
-    :width: 26px
-    :align: left
+    :width: 26px    
     :height: 30px
-    :alt: Selection, navigation, drawing and type toolbar
+    :alt: Text add tool
 
+Text add tool.
 
