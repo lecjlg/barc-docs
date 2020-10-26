@@ -29,6 +29,24 @@ Workspace  basics
 User tools
 
 
+When you open the BARC component it will appear on the right side of the browser. 
 
+
+The main toolbar provides the basic tools the user requires to start using BARC.
+
+.. image:: /images/full_toolbox.png
+    :width: 383px
+    :height: 51px
+    :alt: Selection, navigation, drawing and type toolbar
+
+
+
+The toolbar contains two distinct sets of tools. The first set (A) are used for navigation, e.g zoom and move. The second (B) are freeform drawing tools. When you hover over any of the buttons a tooltip will give an overview of the functionilty of that button. 
+
+.. image:: /images/toolbox_breakdown.png
+    :width: 383px
+    :align: left
+    :height: 152px
+    :alt: Selection, navigation, drawing and type toolbar
 
 
