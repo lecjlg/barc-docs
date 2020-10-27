@@ -85,6 +85,7 @@ Zoom out tool
 
 This tool will reduce the the view of the image by left clicking the mouse.
 
+
 .. image:: /images/move.png
     :width: 26px    
     :height: 30px
@@ -93,7 +94,9 @@ This tool will reduce the the view of the image by left clicking the mouse.
 
 Move/pan tool
 
-This tool will move/pan the map view by holding the left mouse button and dragging. This use in conjuction with the zoom tool allow the user to define their view.
+This tool will move/pan the map view by holding the left mouse button and dragging. This used in conjuction with the zoom tool allow the user to define their view.
+
+
 
 .. image:: /images/boxzoom.png
     :width: 26px    
