@@ -8,6 +8,7 @@ User documentation
     
    about
    license
+   installation
    userguide
    developerguide
 

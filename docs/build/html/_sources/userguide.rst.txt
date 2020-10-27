@@ -1,12 +1,8 @@
 User guide
 ==========
 
-Installation
-^^^^^^^^^^^^
-
 Getting Started with BARC
 ^^^^^^^^^^^^^^^^^^^^^^^^^
-
 
 The BARC tool is split into three distinct sections, the Annotation toolbox, the Lab book and the Report generator. 
 
@@ -43,7 +39,8 @@ The toolbar contains two distinct sets of tools. The first set (A) are used for 
     :height: 152px
     :alt: Selection, navigation, drawing and type toolbar
 
-**(A) Selection and navigation tools**
+Selection and navigation tools
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: /images/undo.png
     :width: 26px
@@ -119,8 +116,8 @@ Mouse wheel zoom tool
 This tool has the same effect as the zoom in and zoom out buttons but is triggered by the user moving the mouse wheel fowards to zoom in and backwards for zooming out.
 
 
-**(B) Drawing and type tools**
-
+Drawing and type tools
+^^^^^^^^^^^^^^^^^^^^^^
 
 
 .. image:: /images/boxadd.png
@@ -132,7 +129,7 @@ This tool has the same effect as the zoom in and zoom out buttons but is trigger
 
 Box add tool
 
-Use this tool to create a box to highlight features. 
+Use this tool to create a box to highlight features. To use this tool left click anywhere on the active content and then drag to a specfic point.
 
 .. image:: /images/freehand.png
     :width: 26px    
