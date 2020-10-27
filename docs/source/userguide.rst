@@ -118,6 +118,11 @@ Mouse wheel zoom tool
 
 This tool has the same effect as the zoom in and zoom out buttons but is triggered by the user moving the mouse wheel fowards to zoom in and backwards for zooming out.
 
+
+**(B) Drawing and type tools**
+
+
+
 .. image:: /images/boxadd.png
     :width: 26px    
     :height: 30px
@@ -125,9 +130,9 @@ This tool has the same effect as the zoom in and zoom out buttons but is trigger
     :align: left
 
 
+Box add tool
 
-**(B) Drawing and type tools**
-
+Use this tool to create a box to highlight features. 
 
 .. image:: /images/freehand.png
     :width: 26px    
