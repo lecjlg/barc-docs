@@ -177,7 +177,7 @@ Select point(s) with SHIFT+tap, then press BACKSPACE while the mouse is within t
 
 Polygon edit tool
 
-Use this tool to edit esisting polygons you have created. 
+Use this tool to edit exsisting polygons you have created. 
 
 .. image:: /images/textadd.png
     :width: 26px    
@@ -186,4 +186,7 @@ Use this tool to edit esisting polygons you have created.
     :align: left
 
 Text add tool.
+
+Use this tool to added text to the active content. 
+
 
