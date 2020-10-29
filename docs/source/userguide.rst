@@ -189,4 +189,12 @@ Text add tool.
 
 Use this tool to added text to the active content. 
 
+Meteorological symbols
+^^^^^^^^^^^^^^^^^^^^^^
+
+BARC has a host of specfic meteorological symbols availble. These symbols are displayed in groups of similar weather features or characteristics. To select a group of symbols use the dropdown toolbar to select the group and then select the specfic symbol you want to use. More information about what the symbol represents is displayed when you hover over the icons. 
+
+
+
+
 
