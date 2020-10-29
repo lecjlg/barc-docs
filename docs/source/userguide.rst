@@ -1,6 +1,12 @@
 User guide
 ==========
 
+.. image:: /images/barclogo.png
+    :width: 245px
+    :height: 131px 
+    :align: right  
+    :alt: BARC logo 
+
 Getting Started with BARC
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
