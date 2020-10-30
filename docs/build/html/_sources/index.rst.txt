@@ -10,6 +10,7 @@ User documentation
    license
    installation
    userguide
+   presentweather
    developerguide
 
 Indices and tables
