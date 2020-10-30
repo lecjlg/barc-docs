@@ -12,6 +12,7 @@ User documentation
    userguide
    presentweather
    developerguide
+   test
 
 Indices and tables
 ==================
