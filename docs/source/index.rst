@@ -10,7 +10,6 @@ User documentation
    license
    installation
    userguide
-   presentweather
    developerguide
    test
 
