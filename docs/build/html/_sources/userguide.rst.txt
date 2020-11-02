@@ -1,5 +1,5 @@
 User guide
-==========
+----------
 
 .. image:: /images/barclogo.png
     :width: 245px
@@ -8,7 +8,7 @@ User guide
     :alt: BARC logo 
 
 Getting Started with BARC
-^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The BARC tool is split into three distinct sections, the Annotation toolbox, the Lab book and the Report generator. 
 
@@ -26,7 +26,7 @@ The report generator provides the capability to generate case studies and model 
 
 
 Workspace  basics
-^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~
 
 When you open the BARC component it will appear on the right side of the browser. 
 
@@ -126,7 +126,7 @@ This tool has the same effect as the zoom in and zoom out buttons but is trigger
 
 
 Drawing and type tools
-^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~
 
 
 .. image:: /images/boxadd.png
