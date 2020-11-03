@@ -32,6 +32,7 @@ release = '0.0.1'
 # ones.
 extensions = [
     'sphinx.ext.autodoc',
+    'sphinx.ext.intersphinx',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -61,3 +62,5 @@ html_context = {
         '_static/theme_overrides.css',  # override wide tables in RTD theme
         ],
      }
+# Example configuration for intersphinx: refer to the Python standard library.
+intersphinx_mapping = { 'bokeh': ('https://docs.bokeh.org/en/latest', None)}
