@@ -11,7 +11,6 @@ User documentation
    installation
    userguide
    developerguide
-   test
 
 Indices and tables
 ==================
