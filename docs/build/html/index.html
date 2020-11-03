@@ -1,9 +1,10 @@
 
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>The (BARC) Bokeh Annotation and Reporting Component documentation &#8212; BARC-docs 0.0.1 documentation</title>
     <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -59,6 +60,93 @@
 <li class="toctree-l1"><a class="reference internal" href="test.html">test</a></li>
 </ul>
 </div>
+</div>
+<div class="section" id="module-forest.barc.toolbar">
+<span id="api-reference"></span><h1>API reference<a class="headerlink" href="#module-forest.barc.toolbar" title="Permalink to this headline">¶</a></h1>
+<dl class="py class">
+<dt id="forest.barc.toolbar.BARC">
+<em class="property">class </em><code class="sig-prename descclassname">forest.barc.toolbar.</code><code class="sig-name descname">BARC</code><span class="sig-paren">(</span><em class="sig-param"><span class="n">figures</span></em><span class="sig-paren">)</span><a class="headerlink" href="#forest.barc.toolbar.BARC" title="Permalink to this definition">¶</a></dt>
+<dd><p>A class for the BARC features.</p>
+<p>It is attached to to the main FOREST instance in the <cite>main</cite> function of <cite>forest/main.py</cite>.</p>
+<dl class="py method">
+<dt id="forest.barc.toolbar.BARC.call">
+<code class="sig-name descname">call</code><span class="sig-paren">(</span><em class="sig-param"><span class="n">attr</span></em>, <em class="sig-param"><span class="n">old</span></em>, <em class="sig-param"><span class="n">new</span></em><span class="sig-paren">)</span><a class="headerlink" href="#forest.barc.toolbar.BARC.call" title="Permalink to this definition">¶</a></dt>
+<dd><p>Call back from dropdown click</p>
+</dd></dl>
+
+<dl class="py method">
+<dt id="forest.barc.toolbar.BARC.display_glyphs">
+<code class="sig-name descname">display_glyphs</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#forest.barc.toolbar.BARC.display_glyphs" title="Permalink to this definition">¶</a></dt>
+<dd><p>Displays the selected glyph buttons</p>
+</dd></dl>
+
+<dl class="py method">
+<dt id="forest.barc.toolbar.BARC.polyLine">
+<code class="sig-name descname">polyLine</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#forest.barc.toolbar.BARC.polyLine" title="Permalink to this definition">¶</a></dt>
+<dd><p>Creates a freehand tool for drawing on the Forest maps.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Returns</dt>
+<dd class="field-odd"><p>a FreehandDrawTool instance</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt id="forest.barc.toolbar.BARC.set_glyphs">
+<code class="sig-name descname">set_glyphs</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#forest.barc.toolbar.BARC.set_glyphs" title="Permalink to this definition">¶</a></dt>
+<dd><p>Set Glyphs based on drop down selection</p>
+</dd></dl>
+
+<dl class="py method">
+<dt id="forest.barc.toolbar.BARC.textStamp">
+<code class="sig-name descname">textStamp</code><span class="sig-paren">(</span><em class="sig-param"><span class="n">glyph</span><span class="o">=</span><span class="default_value">'\U000f0000'</span></em><span class="sig-paren">)</span><a class="headerlink" href="#forest.barc.toolbar.BARC.textStamp" title="Permalink to this definition">¶</a></dt>
+<dd><p>Creates a tool that allows arbitrary Unicode text to be “stamped” on the map. Echos to all figures.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><p><strong>glyph</strong> – Arbitrary unicode string, usually (but not required to be) a single character.</p>
+</dd>
+</dl>
+<dl class="simple">
+<dt>returns:</dt><dd><p>PointDrawTool with textStamp functionality.</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt id="forest.barc.toolbar.BARC.weatherFront">
+<code class="sig-name descname">weatherFront</code><span class="sig-paren">(</span><em class="sig-param"><span class="n">name</span><span class="o">=</span><span class="default_value">'warm'</span></em>, <em class="sig-param"><span class="n">symbols</span><span class="o">=</span><span class="default_value">'\U000f0187'</span></em>, <em class="sig-param"><span class="n">colour</span><span class="o">=</span><span class="default_value">'red'</span></em>, <em class="sig-param"><span class="n">text_baseline</span><span class="o">=</span><span class="default_value">'bottom'</span></em><span class="sig-paren">)</span><a class="headerlink" href="#forest.barc.toolbar.BARC.weatherFront" title="Permalink to this definition">¶</a></dt>
+<dd><p>The weatherfront function of BARC. This draws a Beziér curve and repeats the symbol(s) along it.</p>
+<p>The colours correspond to the symbols; if there are fewer colours than symbols, it cycles back to the start. 
+If there are more colours than symbols, then the excess are ignored.</p>
+<p>Baselines work the same way.</p>
+<p>Defaults correspond to a warm front.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>name</strong> – String. Name of front type</p></li>
+<li><p><strong>colour</strong> – Valid Bokeh ColorSpec or Palette (list of colours)</p></li>
+<li><p><strong>symbols</strong> – Unicode text string or sequence of Unicode text strings. If it is a string with length &gt; 1, 
+the individual characters are spaced out, repeating as necessary. If it is a sequence, 
+each one is treated as a “character”, and spaced in the same way. They can be of
+arbitrary length but long strings may produce undesirable results.</p></li>
+<li><p><strong>text_baseline</strong> – Valid Bokeh TextBaseline or List of TextBaselines</p></li>
+</ul>
+</dd>
+</dl>
+<dl class="simple">
+<dt>Returns:</dt><dd><p>FrontDrawTool instance</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt id="forest.barc.toolbar.BARC.windBarb">
+<code class="sig-name descname">windBarb</code><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#forest.barc.toolbar.BARC.windBarb" title="Permalink to this definition">¶</a></dt>
+<dd><p>Draws a windbarb based on u and v values in ms¯¹. Currently fixed to 50ms¯¹.</p>
+</dd></dl>
+
+</dd></dl>
+
 </div>
 <div class="section" id="indices-and-tables">
 <h1>Indices and tables<a class="headerlink" href="#indices-and-tables" title="Permalink to this headline">¶</a></h1>
@@ -129,7 +217,7 @@
       &copy;2020, James Groves.
       
       |
-      Powered by <a href="http://sphinx-doc.org/">Sphinx 2.4.0</a>
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 3.2.1</a>
       &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
       
       |
