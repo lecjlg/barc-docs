@@ -13,13 +13,6 @@ User documentation
    developerguide
    test
 
-API reference
-=============
-
-.. automodule:: forest.barc.toolbar 
-   :members:
-   
-
 Indices and tables
 ==================
 
