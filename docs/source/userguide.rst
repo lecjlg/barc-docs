@@ -36,6 +36,11 @@ The report generator provides the capability to generate case studies and model 
 
 To open the BARC use the chart icon (left) and BARC will appear in a pop out window on the right side of the browser. 
 
+Profile Selection
+~~~~~~~~~~~~~~~~~
+
+The profile selection dropdown will allow you to select from three different workflows. Model Evaluation, Case study and Data analysis. This selection will determine what user input boxes appear at the bottom of the toolbar in the labbook section of BARC
+
 The Annotation toolbox
 ~~~~~~~~~~~~~~~~~~~~~~
 
@@ -717,7 +722,13 @@ BARC has a host of specfic meteorological symbols availble. These symbols are di
 The Lab book
 ~~~~~~~~~~~~
 
-This feature enables users to comment on their annotations and provide reasoning and more in-depth analysis than chart making alone. Similar to annotations, the lab book includes note taking capability that can be saved or exported so your thoughts and findings are accessible in the future. 
+This feature enables users to comment on their annotations and provide reasoning and more in-depth analysis than chart making alone. Similar to annotations, the lab book includes note taking capability that can be saved or exported so your thoughts and findings are accessible in the future.
+
+The user input fields are defined by the profile set.  
 
 The Report Generator
 ~~~~~~~~~~~~~~~~~~~~
+
+This this will allow forecasters to produce high impact weather (HIW) case study reports detailing atmospheric analysis and information on HIW events (human/economic cost) that will be saved in a case study catalogue. Similarly, a model evaluation reporting function will also be included in the report generator, giving forecasters the ability to report on important model deficiencies such as false alarms, missed events or model biases. Both these report types will enable ‘in country’ forecasters to influence research and will steer scientists and model developers towards work that has the greatest impact locally.
+
+
