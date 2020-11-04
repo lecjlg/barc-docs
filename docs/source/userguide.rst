@@ -717,7 +717,7 @@ BARC has a host of specfic meteorological symbols availble. These symbols are di
 The Lab book
 ~~~~~~~~~~~~
 
-
+This feature enables users to comment on their annotations and provide reasoning and more in-depth analysis than chart making alone. Similar to annotations, the lab book includes note taking capability that can be saved or exported so your thoughts and findings are accessible in the future. 
 
 The Report Generator
 ~~~~~~~~~~~~~~~~~~~~
