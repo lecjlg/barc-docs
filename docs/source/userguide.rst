@@ -27,14 +27,14 @@ The report generator provides the capability to generate case studies and model 
 
 **Initialising BARC**
 
-.. image:: /images/charticon.png
-    :width: 59px
-    :height: 59px 
+.. image:: /images/forest_icon.png
+    :width: 50px
+    :height: 58px 
     :align: left  
-    :alt: Chart icon to launch BARC 
+    :alt: Tree icon to launch BARC 
 
 
-To open the BARC use the chart icon (left) and BARC will appear in a pop out window on the right side of the browser. 
+To open the BARC use the tree icon (left) and the BARC panel will appear in a pop out window on the right side of the browser. 
 
 Profile Selection
 ~~~~~~~~~~~~~~~~~
