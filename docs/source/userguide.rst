@@ -14,11 +14,11 @@ The BARC tool is split into three distinct sections, the Annotation toolbox, the
 
 **The Annotation toolbox**
 
-The Annotation toolbox will allow the user to select from various icons and annotate or markup on the displayed meteorological data. It features specific weather/forecasting icons which the user can select and place on the active content. The toolbox hosts a variety of freeform drawing tools which enable the user to mark features such as strong temperature or moisture gradients with ease as well as highlight features that they wish to draw attention to. 
+The Annotation toolbox will allow the user to select from various weather/ forecasting icons and annotate or markup on the displayed meteorological data. The toolbox also hosts a variety of freeform drawing tools which enable the user to mark features such as extreme temperature or convection with ease as well as highlight features that they wish to draw attention to. 
 
 **The Lab book**
 
-The lab book allows the user to input notes and comments which can be linked to the active content and to the users annotations and markup. Both the comments and the annotations can be saved to allow the user to revisit their previous work.
+The lab book allows the user to input notes and comments which can be linked to the displayed meteorological data and to any annotations and markups the user has added to the current data. Both the comments and the annotations can be saved to allow the user to revisit their previous work.
 
 **The Report Generator**
 
@@ -51,7 +51,7 @@ The main toolbar provides the basic tools the user requires to start using BARC.
     :height: 51px
     :alt: Selection, navigation, drawing and type toolbar
 
-The toolbar contains two distinct sets of tools. The first set (A) are used for navigation, e.g zoom and move. The second (B) are freeform drawing tools. When you hover over any of the buttons a tooltip will give an overview of the functionilty of that button. 
+The toolbar contains two distinct sets of tools. The first set (A) are used for navigation, e.g zoom and move. The second set (B) are freeform drawing tools. When you hover over any of the buttons a tooltip will give an overview of the functionilty of that button. 
 
 .. image:: /images/toolbox_breakdown.png
     :width: 383px    
@@ -102,7 +102,7 @@ By using this tool you can magnify the view by selecting the left mouse button.
 
 Zoom out tool
 
-This tool will reduce the the view of the image by left clicking the mouse.
+This tool will reduce the view of the image by left clicking the mouse.
 
 
 .. image:: /images/move.png
@@ -113,7 +113,7 @@ This tool will reduce the the view of the image by left clicking the mouse.
 
 Move/pan tool
 
-This tool will move/pan the map view by holding the left mouse button and dragging. This used in conjuction with the zoom tool allow the user to define their view.
+This tool will move/pan the map view by holding the left mouse button and dragging. This tool used in conjuction with the zoom tool allow the user to define their view.
 
 
 
@@ -135,7 +135,7 @@ The box zoom tool allows the user to define a rectangular region to zoom. This i
 
 Mouse wheel zoom tool
 
-This tool has the same effect as the zoom in and zoom out buttons but is triggered by the user moving the mouse wheel fowards to zoom in and backwards for zooming out.
+This tool has the same effect as the zoom in and zoom out buttons but is triggered by the user moving the mouse wheel fowards to zoom in and backwards to zoom out.
 
 
 Drawing and type tools
@@ -212,7 +212,7 @@ Use this tool to added text to the active content.
 Meteorological symbols
 ^^^^^^^^^^^^^^^^^^^^^^
 
-BARC has a host of specfic meteorological symbols availble. These symbols are displayed in groups of similar weather features or characteristics. To select a group of symbols use the dropdown toolbar and then select the specfic symbol you want to use. More information about what the symbol represents is displayed when you hover over the icons. Group 0 - 9 reference the well established WMO present weather symbols.
+BARC has a large host of specfic meteorological symbols availble. These symbols are displayed in groups of similar weather features or characteristics. To select a group of symbols use the dropdown toolbar and then select the specfic symbol you want to use. More information about what the symbol represents is displayed when you hover over the icons. Group 0 - 9 reference the well established World Meteorological Organisation (WMO) present weather symbols.
 
 
 +---------------------------------------------+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -790,13 +790,13 @@ BARC has a host of specfic meteorological symbols availble. These symbols are di
 The Lab book
 ~~~~~~~~~~~~
 
-This feature enables users to comment on their annotations and provide reasoning and more in-depth analysis than chart making alone. Similar to annotations, the lab book includes note taking capability that can be saved or exported so your thoughts and findings are accessible in the future.
+This feature enables users to comment on their annotations and/or markups and provide reasoning and more in-depth analysis than chart making alone. Similar to annotations, the lab book includes note taking capability that can be saved or exported so your thoughts and findings are accessible in the future.
 
 The user input fields are defined by the profile set.  
 
 The Report Generator
 ~~~~~~~~~~~~~~~~~~~~
 
-This this will allow forecasters to produce high impact weather (HIW) case study reports detailing atmospheric analysis and information on HIW events (human/economic cost) that will be saved in a case study catalogue. Similarly, a model evaluation reporting function will also be included in the report generator, giving forecasters the ability to report on important model deficiencies such as false alarms, missed events or model biases. Both these report types will enable ‘in country’ forecasters to influence research and will steer scientists and model developers towards work that has the greatest impact locally.
+This will allow forecasters to produce high impact weather (HIW) case study reports detailing atmospheric analysis and information on HIW events (human/economic cost) that will be saved in a case study catalogue. Similarly, a model evaluation reporting function will also be included in the report generator, giving forecasters the ability to report on important model deficiencies such as false alarms, missed events or model biases. Both these report types will enable ‘in country’ forecasters to influence research and will steer scientists and model developers towards work that has the greatest impact locally.
 
 
