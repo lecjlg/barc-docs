@@ -105,19 +105,11 @@ Polygon add tool
 
 Use this tool to create polygons on the displayed content. 
 
-To add a point left click anywhere on the active content. 
+To move the polygon
+Select the polygon tool and then drag the polygon to a new location. You can also move multiple polygons by holding shift.
 
-To move a point tap and drag the exisiting point to a new location. 
-
-To delete a point tap to select a point and then select the backspace key.
-
-To move or delete multiple points at once:
-
-Move selection
-Select point(s) with SHIFT+tap, then drag anywhere on the plot. Selecting and then dragging a specific point will move both.
-
-Delete selection
-Select point(s) with SHIFT+tap, then press BACKSPACE while the mouse is within the plot area.
+To delete a polygon
+Select the polygon tool and then select the first point created, then press BACKSPACE.
 
 
 .. image:: /images/textadd.png
