@@ -691,11 +691,24 @@ BARC has a large host of specfic meteorological symbols availble. These symbols 
 +---------------------------------------------+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
+Custom splnes
+^^^^^^^^^^^^^
+Barc has various custom splines included to curved lines to be drawn over the data. These splines include useful features such as fronts and troughs and will allow the user to create accurate curves as desired. 
 
 
-
-
-
++--------------------------------------------------+------+---------------+
+|     Symbol                                       | Code | Description   |
++--------------------------------------------------+------+---------------+
+| ..   image:: /images/spline_icons/cold-front.png |      |   Cloud front |
+|          :width: 36px                            |      |               |
+|          :height: 36px                           |      |               |
+|          :alt: icon                              | 0    |               |
++--------------------------------------------------+------+---------------+
+| ..   image:: /images/spline_icons/warm-front.png |      |   warm front  |
+|          :width: 36px                            |      |               |
+|          :height: 36px                           |      |               |
+|          :alt: icon                              | 1    |               |
++--------------------------------------------------+------+---------------+
 
 
 
