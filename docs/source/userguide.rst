@@ -61,50 +61,6 @@ The toolbar contains two distinct sets of tools. The first set (A) are used for 
 Selection and navigation tools
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: /images/undo.png
-    :width: 26px
-    :height: 30px
-    :alt: Undo button
-    :align: left
-
-Undo
-
-By using the undo tool you can easily undo multiple steps from your annotations.
-
-.. image:: /images/redo.png
-    :width: 26px  
-    :height: 30px
-    :align: left
-    :alt: Redo button
-
-Redo
-
-By using the redo tool you can easily redo your last step.
-
-
-.. image:: /images/zoomin.png
-    :width: 26px    
-    :height: 30px
-    :alt: Zoom in button
-    :align: left
-
-
-Zoom in tool
-
-By using this tool you can magnify the view by selecting the left mouse button.
-
-.. image:: /images/zoomout.png
-    :width: 26px    
-    :height: 30px
-    :alt: Zoom out button
-    :align: left
-
-
-Zoom out tool
-
-This tool will reduce the view of the image by left clicking the mouse.
-
-
 .. image:: /images/move.png
     :width: 26px    
     :height: 30px
@@ -114,7 +70,6 @@ This tool will reduce the view of the image by left clicking the mouse.
 Move/pan tool
 
 This tool will move/pan the map view by holding the left mouse button and dragging. This tool used in conjuction with the zoom tool allow the user to define their view.
-
 
 
 .. image:: /images/boxzoom.png
@@ -127,31 +82,8 @@ Box zoom tool
 
 The box zoom tool allows the user to define a rectangular region to zoom. This is done by holding down the left mouse button and dragging to the desired area.
 
-.. image:: /images/wheelzoom.png
-    :width: 26px    
-    :height: 30px
-    :alt: Mouse wheel zoom
-    :align: left
-
-Mouse wheel zoom tool
-
-This tool has the same effect as the zoom in and zoom out buttons but is triggered by the user moving the mouse wheel fowards to zoom in and backwards to zoom out.
-
-
 Drawing and type tools
 ^^^^^^^^^^^^^^^^^^^^^^
-
-
-.. image:: /images/boxadd.png
-    :width: 26px    
-    :height: 30px
-    :alt: Box add button
-    :align: left
-
-
-Box add tool
-
-Use this tool to create a box to highlight features. To use this tool left click anywhere on the active content and then drag to a specfic point.
 
 .. image:: /images/freehand.png
     :width: 26px    
@@ -188,16 +120,6 @@ Delete selection
 Select point(s) with SHIFT+tap, then press BACKSPACE while the mouse is within the plot area.
 
 
-.. image:: /images/polyedit.png
-    :width: 26px   
-    :height: 30px
-    :alt: Polygon edit tool
-    :align: left
-
-Polygon edit tool
-
-Use this tool to edit exsisting polygons you have created. 
-
 .. image:: /images/textadd.png
     :width: 26px    
     :height: 30px
@@ -206,7 +128,7 @@ Use this tool to edit exsisting polygons you have created.
 
 Text add tool.
 
-Use this tool to added text to the active content. 
+This feature is coming soon it will allow the user add text to the active content. 
 
 
 Meteorological symbols
