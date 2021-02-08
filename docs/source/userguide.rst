@@ -696,19 +696,86 @@ Custom splnes
 Barc has various custom splines included to curved lines to be drawn over the data. These splines include useful features such as fronts and troughs and will allow the user to create accurate curves as desired. 
 
 
-+--------------------------------------------------+------+---------------+
-|     Symbol                                       | Code | Description   |
-+--------------------------------------------------+------+---------------+
-| ..   image:: /images/spline_icons/cold-front.png |      |   Cloud front |
-|          :width: 36px                            |      |               |
-|          :height: 36px                           |      |               |
-|          :alt: icon                              | 0    |               |
-+--------------------------------------------------+------+---------------+
-| ..   image:: /images/spline_icons/warm-front.png |      |   warm front  |
-|          :width: 36px                            |      |               |
-|          :height: 36px                           |      |               |
-|          :alt: icon                              | 1    |               |
-+--------------------------------------------------+------+---------------+
+
++---------------------------------------------------------+------+------------------------------------+
+|     Symbol                                              | Code | Description                        |
++---------------------------------------------------------+------+------------------------------------+
+| ..   image:: /images/spline_icons/upper-trough.png      |      | Upper trough                       |
+|          :width: 36px                                   |      |                                    |
+|          :height: 36px                                  |      |                                    |
+|          :alt: Icon for Upper trough                    | 0    |                                    |
++---------------------------------------------------------+------+------------------------------------+
+| ..   image:: /images/spline_icons/dry-intrusion.png     |      | Dry Intrusion                      |
+|          :width: 36px                                   |      |                                    |
+|          :height: 36px                                  |      |                                    |
+|          :alt: Dry intrusion                            | 1    |                                    |
++---------------------------------------------------------+------+------------------------------------+
+| ..   image:: /images/spline_icons/stationary-dry.png    | 2    | Stationary dry                     |
+|          :width: 36px                                   |      |                                    |
+|          :height: 36px                                  |      |                                    |
+|          :alt: icon for stationary dry                  |      |                                    |
++---------------------------------------------------------+------+------------------------------------+
+| ..   image:: /images/spline_icons/pseudo-cold-front.png | 3    | Dry advection/pseudo cold front    |
+|          :width: 36px                                   |      |                                    |
+|          :height: 36px                                  |      |                                    |
+|          :alt: icon for pseudo cold front               |      |                                    |
++---------------------------------------------------------+------+------------------------------------+
+| ..   image:: /images/spline_icons/pseudo-warm-front.png | 4    | Warm advection / pseudo warm front |
+|          :width: 36px                                   |      |                                    |
+|          :height: 36px                                  |      |                                    |
+|          :alt: icon for pseudo warm front               |      |                                    |
++---------------------------------------------------------+------+------------------------------------+
+| ..   image:: /images/spline_icons/warm-front.png        | 5    |                                    |
+|          :width: 36px                                   |      |                                    |
+|          :height: 36px                                  |      |                                    |
+|          :alt: icon                                     |      |                                    |
++---------------------------------------------------------+------+------------------------------------+
+| ..   image:: /images/spline_icons/warm-front.png        | 6    |                                    |
+|          :width: 36px                                   |      |                                    |
+|          :height: 36px                                  |      |                                    |
+|          :alt: icon                                     |      |                                    |
++---------------------------------------------------------+------+------------------------------------+
+| ..   image:: /images/spline_icons/warm-front.png        | 7    |                                    |
+|          :width: 36px                                   |      |                                    |
+|          :height: 36px                                  |      |                                    |
+|          :alt: icon                                     |      |                                    |
++---------------------------------------------------------+------+------------------------------------+
+| ..   image:: /images/spline_icons/warm-front.png        | 8    |                                    |
+|          :width: 36px                                   |      |                                    |
+|          :height: 36px                                  |      |                                    |
+|          :alt: icon                                     |      |                                    |
++---------------------------------------------------------+------+------------------------------------+
+| ..   image:: /images/spline_icons/warm-front.png        | 9    |                                    |
+|          :width: 36px                                   |      |                                    |
+|          :height: 36px                                  |      |                                    |
+|          :alt: icon                                     |      |                                    |
++---------------------------------------------------------+------+------------------------------------+
+| ..   image:: /images/spline_icons/warm-front.png        | 10   |                                    |
+|          :width: 36px                                   |      |                                    |
+|          :height: 36px                                  |      |                                    |
+|          :alt: icon                                     |      |                                    |
++---------------------------------------------------------+------+------------------------------------+
+| ..   image:: /images/spline_icons/warm-front.png        | 11   |                                    |
+|          :width: 36px                                   |      |                                    |
+|          :height: 36px                                  |      |                                    |
+|          :alt: icon                                     |      |                                    |
++---------------------------------------------------------+------+------------------------------------+
+| ..   image:: /images/spline_icons/warm-front.png        | 12   |                                    |
+|          :width: 36px                                   |      |                                    |
+|          :height: 36px                                  |      |                                    |
+|          :alt: icon                                     |      |                                    |
++---------------------------------------------------------+------+------------------------------------+
+| ..   image:: /images/spline_icons/warm-front.png        | 13   |                                    |
+|          :width: 36px                                   |      |                                    |
+|          :height: 36px                                  |      |                                    |
+|          :alt: icon                                     |      |                                    |
++---------------------------------------------------------+------+------------------------------------+
+| ..   image:: /images/spline_icons/warm-front.png        | 14   |                                    |
+|          :width: 36px                                   |      |                                    |
+|          :height: 36px                                  |      |                                    |
+|          :alt: icon                                     |      |                                    |
++---------------------------------------------------------+------+------------------------------------+
+
 
 
 
