@@ -36,10 +36,14 @@ The report generator provides the capability to generate case studies and model 
 
 To open the BARC use the tree icon (left) and the BARC panel will appear in a pop out window on the right side of the browser. 
 
-Profile Selection
-~~~~~~~~~~~~~~~~~
 
-The profile selection dropdown will allow you to select from three different workflows. Model Evaluation, Case study and Data analysis. This selection will determine what user input boxes appear at the bottom of the toolbar in the labbook section of BARC
+.. 
+   Profile Selection
+   ~~~~~~~~~~~~~~~~~
+..
+   The profile selection dropdown will allow you to select from three different workflows. Model Evaluation, Case study and Data analysis. This selection will determine what user input boxes appear at the bottom of the toolbar in the labbook section of BARC
+
+
 
 The Annotation toolbox
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -691,8 +695,8 @@ BARC has a large host of specfic meteorological symbols availble. These symbols 
 +---------------------------------------------+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
-Custom splnes
-^^^^^^^^^^^^^
+Custom splines
+^^^^^^^^^^^^^^
 Barc has various custom splines included to curved lines to be drawn over the data. These splines include useful features such as fronts and troughs and will allow the user to create accurate curves as desired. 
 
 +-----------------------------------------------------------------+------+------------------------------------+
