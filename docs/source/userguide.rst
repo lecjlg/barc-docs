@@ -692,9 +692,9 @@ BARC has a large host of specfic meteorological symbols availble. These symbols 
 +---------------------------------------------+----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
-Custom splines
-^^^^^^^^^^^^^^
-Barc has various custom splines included to curved lines to be drawn over the data. These splines include useful features such as fronts and troughs and will allow the user to create accurate curves as desired. 
+Custom Lines
+^^^^^^^^^^^^
+BARC has various custom lines included to allow multipoint curved lines to be drawn over the data. These lines include useful features such as fronts and troughs and will allow the user to create accurate curves where desired. Below is a table of the included lines and their descriptions.
 
 
 +-----------------------------------------------------------------+------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
