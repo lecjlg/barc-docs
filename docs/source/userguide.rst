@@ -123,6 +123,23 @@ Text add tool.
 
 This feature is coming soon it will allow the user add text to the active content. 
 
+Save button
+^^^^^^^^^^^
+This button saves all text and annotations currently created in BARC. The title field is mandatory and is used for loading your content back into BARC.
+
+Load button
+^^^^^^^^^^^
+
+The load button will load your previous annotations and text back into the BARC inteface. By selecting the load button previous Title are displayed in the drop-down list. Select the title to load the previous work.
+
+Export button
+^^^^^^^^^^^^^
+The export button provides the user with a tool to export their annotations, notes, metadata and FOREST data details as a single document. 
+The annotations will be outputted as a full screen image and include the current timestep of data with all the markings, custom lines and glyphs. It will also combine the contents of all the freeform textboxes and outline what meta data was selected in the checkboxes at the bottom of the labook. The FOREST data details will included below the image data, this will outline the data file loaded, the variable and the specfic timestep. 
+
+Clear button
+^^^^^^^^^^^^
+The clear button will remove all text and annotation from the current session.
 
 Meteorological symbols
 ^^^^^^^^^^^^^^^^^^^^^^
