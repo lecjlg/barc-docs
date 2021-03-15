@@ -30,7 +30,7 @@ The report generator provides the capability to generate case studies and model 
 .. image:: /images/forest_icon.png
     :width: 50px
     :height: 58px 
-    :align: left  
+    :align: right
     :alt: Tree icon to launch BARC 
 
 
