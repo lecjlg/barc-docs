@@ -14,11 +14,11 @@ The BARC tool is split into three distinct sections, the Annotation toolbox, the
 
 **The Annotation toolbox**
 
-The Annotation toolbox will allow the user to select from various weather/ forecasting icons and annotate or markup on the displayed meteorological data. The toolbox also hosts a variety of freeform drawing tools which enable the user to mark features such as extreme temperature or convection with ease as well as highlight features that they wish to draw attention to. 
+The Annotation toolbox provides the functionality to select from various weather/ forecasting icons and annotate on the displayed meteorological data. The toolbox provides a hosts of freeform drawing tools which enables the user to mark features such as extreme temperature or convection with ease as well as highlight features that they wish to draw attention to. 
 
 **The Lab book**
 
-The lab book allows the user to input notes and comments which can be linked to the displayed meteorological data and to any annotations and markups the user has added to the current data. Both the comments and the annotations can be saved to allow the user to revisit their previous work.
+The lab book allows the user to input notes and comments which can be linked to the displayed meteorological data and to any annotations and markups the user has added to the current data. Both the comments and the annotations can be saved to allow the user to revisit their previous work. 
 
 **The Report Generator**
 
@@ -695,6 +695,11 @@ BARC has a large host of specfic meteorological symbols availble. These symbols 
 Custom Lines
 ^^^^^^^^^^^^
 BARC has various custom lines included to allow multipoint curved lines to be drawn over the data. These lines include useful features such as fronts and troughs and will allow the user to create accurate curves where desired. Below is a table of the included lines and their descriptions.
+
+
+Show/hide Bézier Guides
+^^^^^^^^^^^^^^^^^^^^^^^
+When placing custom lines there is an option to to show or hide the Bezier guides. When this is enabled the greys guide lines are visible on the canvas.
 
 +-----------------------------------------------------------------+------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |     Symbol                                                      | Code | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
