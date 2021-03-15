@@ -16,9 +16,9 @@ The BARC tool is split into three distinct sections, the Annotation toolbox, the
 
 The Annotation toolbox provides the functionality to select from various weather/ forecasting icons and annotate on the displayed meteorological data. The toolbox provides a hosts of freeform drawing tools which enables the user to mark features such as extreme temperature or convection with ease as well as highlight features that they wish to draw attention to. 
 
-**The Lab book**
+**The DigitallLab book**
 
-The lab book allows the user to input notes and comments which can be linked to the displayed meteorological data and to any annotations and markups the user has added to the current data. Both the comments and the annotations can be saved to allow the user to revisit their previous work. 
+The digital lab book allows the user to input notes and comments which can be linked to the displayed meteorological data and to any annotations and markups the user has added to the current data. Both the comments and the annotations can be saved to allow the user to revisit their previous work. 
 
 **The Report Generator**
 
@@ -41,7 +41,7 @@ To open the BARC use the tree icon (left) and the BARC panel will appear in a po
    Profile Selection
    ~~~~~~~~~~~~~~~~~
 ..
-   The profile selection dropdown will allow you to select from three different workflows. Model Evaluation, Case study and Data analysis. This selection will determine what user input boxes appear at the bottom of the toolbar in the labbook section of BARC
+   The profile selection dropdown will allow you to select from three different workflows. Model Evaluation, Case study and Data analysis. This selection will determine what user input boxes appear at the bottom of the toolbar in the lab book section of BARC
 
 
 
@@ -148,7 +148,7 @@ The load button will load your previous annotations and text back into the BARC 
 Export button
 ^^^^^^^^^^^^^
 The export button provides the user with a tool to export their annotations, notes, metadata and details and the loaded data as a single document. 
-The annotations will be outputted as a full screen image and include all the markings, custom lines and glyphs. It will also combine the contents of all the freeform textboxes and outline what meta data was selected in the checkboxes at the bottom of the labook. Key information about The data within FOREST wil also be included in the report. This will be included below the image data, and will specify the data file loaded, the variable and the timestep. 
+The annotations will be outputted as a full screen image and include all the markings, custom lines and glyphs. It will also combine the contents of all the freeform textboxes and outline what meta data was selected in the checkboxes at the bottom of the lab book. Key information about The data within FOREST wil also be included in the report. This will be included below the image data, and will specify the data file loaded, the variable and the timestep. 
 
 Clear button
 ^^^^^^^^^^^^
@@ -816,7 +816,7 @@ When placing custom lines there is an option to to show or hide the Bezier guide
 +-----------------------------------------------------------------+------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
-The Lab book
+The Digital lab book
 ~~~~~~~~~~~~
 
 .. image:: /images/text_boxes.png
