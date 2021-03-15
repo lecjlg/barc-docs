@@ -806,15 +806,16 @@ When placing custom lines there is an option to to show or hide the Bezier guide
 The Lab book
 ~~~~~~~~~~~~
 
-This feature enables users to comment on their annotations and/or markups and provide reasoning and more in-depth analysis than chart making alone. Similar to annotations, the lab book includes note taking capability that can be saved or exported so your thoughts and findings are accessible in the future.
-
-The user input fields are defined by the profile set.  
-
 .. image:: /images/text_boxes.png
     :width: 365px
     :height: 548px 
-    :align: left  
+    :align: right 
     :alt: Free form text boxes for user comments.
+
+This feature enables users to comment on their annotations to provide reasoning and a more in-depth analysis than chart making alone. Similar to annotations, the lab book includes note taking capability that can be saved or exported so thoughts and findings are accessible in the future.
+BARC also features meta data flagging via a check boxes at the bottom of the lab book tool bar. This feature allows for relevant high impact weather and synoptic conditions to be identified as the users analysis their data.
+
+Both the text boxes and meta data check boxes are defined by the profile set in the profile select dropdown. 
 
 
 The Report Generator
