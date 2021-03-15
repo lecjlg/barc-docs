@@ -123,6 +123,19 @@ Text add tool.
 
 This feature is coming soon it will allow the user add text to the active content. 
 
+Select Size
+^^^^^^^^^^^
+The size select slider allows the user to scale both the stamps and the custom lines. Move the slider to the right to increase the size. The smallest setting is 1 the largest is 10.
+
+Stamp Colour
+^^^^^^^^^^^^
+.. image:: /images/colour_stamp.png
+    :width: 356px    
+    :height: 320px
+    :alt: Stamp colour tool
+    :align: right
+Stamp colour provides an easy way to accees different colours for the meterological symbols included in BARC. Select stamp the colour and either select your desired colour from the displayed pallete. The stamp colour tool allows for direct input of colour values in RGB (Red Green Blue), hsl (hue, saturation, and lightness) and hex.
+
 Save button
 ^^^^^^^^^^^
 This button saves all text and annotations currently created in BARC. The title field is mandatory and is used for loading your content back into BARC.
@@ -130,12 +143,12 @@ This button saves all text and annotations currently created in BARC. The title 
 Load button
 ^^^^^^^^^^^
 
-The load button will load your previous annotations and text back into the BARC inteface. By selecting the load button previous Title are displayed in the drop-down list. Select the title to load the previous work.
+The load button will load your previous annotations and text back into the BARC inteface. By selecting the load button previous saved worked sessions are displayed in the drop-down list. Select the required title to load previous work.
 
 Export button
 ^^^^^^^^^^^^^
-The export button provides the user with a tool to export their annotations, notes, metadata and FOREST data details as a single document. 
-The annotations will be outputted as a full screen image and include the current timestep of data with all the markings, custom lines and glyphs. It will also combine the contents of all the freeform textboxes and outline what meta data was selected in the checkboxes at the bottom of the labook. The FOREST data details will included below the image data, this will outline the data file loaded, the variable and the specfic timestep. 
+The export button provides the user with a tool to export their annotations, notes, metadata and details and the loaded data as a single document. 
+The annotations will be outputted as a full screen image and include all the markings, custom lines and glyphs. It will also combine the contents of all the freeform textboxes and outline what meta data was selected in the checkboxes at the bottom of the labook. Key information about The data within FOREST wil also be included in the report. This will be included below the image data, and will specify the data file loaded, the variable and the timestep. 
 
 Clear button
 ^^^^^^^^^^^^
