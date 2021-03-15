@@ -20,13 +20,6 @@ The Annotation toolbox provides the functionality to select from various weather
 
 The lab book allows the user to input notes and comments which can be linked to the displayed meteorological data and to any annotations and markups the user has added to the current data. Both the comments and the annotations can be saved to allow the user to revisit their previous work. 
 
-.. image:: /images/text_boxes.png
-    :width: 365px
-    :height: 548px 
-    :align: left  
-    :alt: Free form text boxes for user comments.
-
-
 **The Report Generator**
 
 The report generator provides the capability to generate case studies and model evaluation feedback reports. It features a comprehensive search and allows users to find previous reports and events from keywords and metadata.
@@ -799,6 +792,13 @@ The Lab book
 This feature enables users to comment on their annotations and/or markups and provide reasoning and more in-depth analysis than chart making alone. Similar to annotations, the lab book includes note taking capability that can be saved or exported so your thoughts and findings are accessible in the future.
 
 The user input fields are defined by the profile set.  
+
+.. image:: /images/text_boxes.png
+    :width: 365px
+    :height: 548px 
+    :align: left  
+    :alt: Free form text boxes for user comments.
+
 
 The Report Generator
 ~~~~~~~~~~~~~~~~~~~~
