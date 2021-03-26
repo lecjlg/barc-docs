@@ -734,19 +734,37 @@ BARC has a large host of specfic meteorological symbols availble. These symbols 
 
 Custom Lines
 ^^^^^^^^^^^^
-BARC has various custom lines included to allow multipoint curved lines to be drawn over the data. These lines include useful features such as fronts and troughs and will allow the user to create accurate curves where desired. Below is a table of the included lines and their descriptions.
+BARC has various custom lines included to allow multipoint curved lines to be drawn over the data. These lines include useful features such as fronts and troughs and will allow the user to create accurate curves where desired.
+
+.. image:: /images/beziercurves1.png
+    :width: 373px
+    :height: 168px 
+    :alt: show/hide Bézier Guides tool
+
+
+To create a Bézier curve requires at least four points are required to be placed on the canvas. First select the curved symbol you require from the toolbox, then double click on the canvas and contiue to place points until the curve is where required. To complete or exit the tool select the escape key.
+
+
+.. image:: /images/bezierguide.png
+    :width: 461px
+    :height: 308px 
+    :alt: show/hide Bézier Guides tool
+
+
 
 
 Show/hide Bézier Guides
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: /images/beziercurves.png
-    :width: 143px
-    :height: 31px 
-    :align: right
+    :width: 144px
+    :height: 27px 
     :alt: show/hide Bézier Guides tool
 
 When placing custom lines there is an option to to show or hide the Bezier guides. When this is enabled the greys guide lines are visible on the canvas.
+
+Below is a table of the included lines and their descriptions.
+
 
 +-----------------------------------------------------------------+------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |     Symbol                                                      | Code | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
