@@ -125,15 +125,25 @@ This feature is coming soon it will allow the user add text to the active conten
 
 Select Size
 ^^^^^^^^^^^
+
+.. image:: /images/selectsize.png
+    :width: 207px
+    :height: 60px 
+    :align: right
+    :alt: Select size slider 
+
+
 The size select slider allows the user to scale both the stamps and the custom lines. Move the slider to the right to increase the size. The smallest setting is 1 the largest is 10.
 
 Stamp Colour
 ^^^^^^^^^^^^
+
 .. image:: /images/colour_stamp.png
     :width: 356px    
     :height: 320px
     :alt: Stamp colour tool
     :align: right
+
 Stamp colour provides an easy way to accees different colours for the meterological symbols included in BARC. Select stamp the colour and either select your desired colour from the displayed pallete. The stamp colour tool allows for direct input of colour values in RGB (Red Green Blue), hsl (hue, saturation, and lightness) and hex.
 
 Save button
@@ -729,6 +739,13 @@ BARC has various custom lines included to allow multipoint curved lines to be dr
 
 Show/hide Bézier Guides
 ^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: /images/beziercurves.png
+    :width: 143px
+    :height: 31px 
+    :align: right
+    :alt: show/hide Bézier Guides tool
+
 When placing custom lines there is an option to to show or hide the Bezier guides. When this is enabled the greys guide lines are visible on the canvas.
 
 +-----------------------------------------------------------------+------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -817,7 +834,7 @@ When placing custom lines there is an option to to show or hide the Bezier guide
 
 
 The Digital lab book
-~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
 
 .. image:: /images/text_boxes.png
     :width: 365px
@@ -826,9 +843,20 @@ The Digital lab book
     :alt: Free form text boxes for user comments.
 
 This feature enables users to comment on their annotations to provide reasoning and a more in-depth analysis than chart making alone. Similar to annotations, the lab book includes note taking capability that can be saved or exported so thoughts and findings are accessible in the future.
-BARC also features meta data flagging via a check boxes at the bottom of the lab book tool bar. This feature allows for relevant high impact weather and synoptic conditions to be identified as the users analysis their data.
+Each report requires a title this field is manadatory. Once this field is populated the save button will be enabled. Any text entered into the text boxes will be saved.
 
-Both the text boxes and meta data check boxes are defined by the profile set in the profile select dropdown. 
+.. image:: /images/metadata.png
+    :width: 371px
+    :height: 419px
+    :align: right 
+    :alt: Meta data flags.
+
+
+Metadata Flags
+^^^^^^^^^^^^^^
+
+Meta data flags are found at the bottom of the lab book. This feature allows for the user to flag an event by selecting the relavant tag from the dropdown list. There are two catagories of meta data, HIW (High Impact Weather) and Synoptic. To select meta data, select one of the twocatagories and the select the relavent heading from the drop down menu.
+
 
 
 The Report Generator
