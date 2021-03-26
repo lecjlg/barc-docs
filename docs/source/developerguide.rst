@@ -4,11 +4,9 @@ Developer Guide
 API reference
 -------------
 
-.. automodule:: forest.barc.toolbar 
+.. automodule:: forest.barc 
    :members:
 
-.. automodule:: forest.barc.text_stamp
-   :members:
-
-.. automodule:: forest.barc.front_tool
-   :members:
+.. codeauthor:: Dan Walker (NCAS)
+.. codeauthor:: Helen Burns (CEMAC)
+.. codeauthor:: Dan Elis (CEMAC)

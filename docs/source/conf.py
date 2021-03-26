@@ -20,6 +20,7 @@ sys.path.insert(0, os.path.abspath('../../../../..'))
 project = 'BARC-docs'
 copyright = '2020, NCAS'
 author = 'Helen Burns, James Groves, Dan Walker and Sam Clarke'
+show_authors = True
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
