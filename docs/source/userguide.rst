@@ -153,7 +153,7 @@ This button saves all text and annotations currently created in BARC. The title 
 Load button
 ^^^^^^^^^^^
 
-The load button will load your previous annotations and text back into the BARC inteface. By selecting the load button previous saved worked sessions are displayed in the drop-down list. Select the required title to load previous work.
+The load button will load your previous annotations and text back into the BARC inteface. By selecting the load button previous saved worked sessions are displayed including a date stamp of when the work was completed in the drop-down list. Select the required title to load previous work.
 
 Export button
 ^^^^^^^^^^^^^
@@ -842,20 +842,77 @@ The Digital lab book
     :align: right 
     :alt: Free form text boxes for user comments.
 
-This feature enables users to comment on their annotations to provide reasoning and a more in-depth analysis than chart making alone. Similar to annotations, the lab book includes note taking capability that can be saved or exported so thoughts and findings are accessible in the future.
-Each report requires a title this field is manadatory. Once this field is populated the save button will be enabled. Any text entered into the text boxes will be saved.
+This feature enables users to comment on their annotations to provide reasoning and a more in-depth analysis than chart making alone. The lab book includes note taking capability this text can be saved or exported so thoughts and findings are accessible in the future.
+Currently there are four free form text boxes for the user to record their notes. The first text box is the Title box, each report requires a title and is mandatory. This field will be used as the reference for the user to reload there report if required. Once the title field is populated the save button will become active and enabled. 
+The other three text boxes, Comments, Brief Description and Further notes are not mandatory and can contain any text to describe the data.
+ 
 
-.. image:: /images/metadata.png
-    :width: 371px
-    :height: 419px
-    :align: right 
-    :alt: Meta data flags.
 
 
 Metadata Flags
 ^^^^^^^^^^^^^^
+Meta data flags are found at the bottom of the lab book. This feature allows for the user to flag an event by selecting the relavant tag from the dropdown list. There are two catagories of meta data, HIW (High Impact Weather) and Synoptic. 
 
-Meta data flags are found at the bottom of the lab book. This feature allows for the user to flag an event by selecting the relavant tag from the dropdown list. There are two catagories of meta data, HIW (High Impact Weather) and Synoptic. To select meta data, select one of the twocatagories and the select the relavent heading from the drop down menu.
+
+To select meta data, select one of the two catagories and the select the relavent heading from the drop down menu.
+
+
+.. image:: /images/metadata.png
+    :width: 368px 
+    :height: 417px
+    :alt: Meta data flags.
+
+The table below shows the available tags within the two catagories.
+
++----------------------------+--------------------------------------------+
+| HIW                        | Synoptic                                   |
++============================+============================================+
+| Coastal   flooding         | African Easterly Wave                      |
++----------------------------+--------------------------------------------+
+| Extreme   Cold             | Area of low pressure                       |
++----------------------------+--------------------------------------------+
+| Extreme   Hot              | Cold surge                                 |
++----------------------------+--------------------------------------------+
+| Fog                        | Heat wave                                  |
++----------------------------+--------------------------------------------+
+| Frost                      | ITCZ                                       |
++----------------------------+--------------------------------------------+
+| Hail                       | Kelvin wave activity                       |
++----------------------------+--------------------------------------------+
+| Landslide                  | Localised convection                       |
++----------------------------+--------------------------------------------+
+| MCS                        | Meso-scale convection                      |
++----------------------------+--------------------------------------------+
+| Rapid   response flooding  |                                            |
+|                            |    MJO phase 1                             |
++----------------------------+--------------------------------------------+
+| River   flooding           | MJO phase 2                                |
++----------------------------+--------------------------------------------+
+| Snow                       | MJO phase 3                                |
++----------------------------+--------------------------------------------+
+| Storm   / Lightning        | MJO phase 4                                |
++----------------------------+--------------------------------------------+
+| Storm   surge              | MJO phase 5                                |
++----------------------------+--------------------------------------------+
+| Strong   winds or gusts    | MJO phase 6                                |
++----------------------------+--------------------------------------------+
+|                            | MJO phase 7                                |
+|    Surface water flooding  |                                            |
++----------------------------+--------------------------------------------+
+| Tornado                    | MJO phase 8                                |
++----------------------------+--------------------------------------------+
+| Tropical   storm / cyclone | Rossby wave activity                       |
++----------------------------+--------------------------------------------+
+|                            | Sea / lake breeze                          |
++----------------------------+--------------------------------------------+
+|                            | South West Monsoon                         |
++----------------------------+--------------------------------------------+
+|                            | Tropical cyclone (directly   / indirectly) |
++----------------------------+--------------------------------------------+
+|                            | Weak MJO                                   |
++----------------------------+--------------------------------------------+
+
+
 
 
 
